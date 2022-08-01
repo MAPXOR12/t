@@ -1,3 +1,4 @@
-# Get Started!
 
-Add files and start typing 🎉
+
+## SUPPORT
+  [Join Discord](https://discord.gg/ATrxZrT)
